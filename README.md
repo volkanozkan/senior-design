@@ -1,4 +1,2 @@
 # senior-design
-Bitirme Projesi web servisleri. JSON 
-E-R Diagram.
-
+Bitirme Projesi web servisleri ve e-r diagram. return JSON.
